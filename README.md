@@ -9,6 +9,9 @@
     <div style="background-color: #EB6E80; width: 25px; height: 25px; border-radius: 50%" markdown="1"></div>
 - **Aqua** `#008F95`
     <div style="background-color: #008F95; width: 25px; height: 25px; border-radius: 50%" markdown="1"></div>
+```html
+    <div style="background-color: #E24E42; width: 25px; height: 25px; border-radius: 50%" markdown="1"></div>
+```
 
 ### Fonts:
 - **Decorative**
